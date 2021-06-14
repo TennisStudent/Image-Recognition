@@ -1,0 +1,21 @@
+body
+{
+    background-color: aquamarine;
+}
+.heading
+{
+    color: salmon;
+    width: 50%;
+    font-family: Georgia;
+    font-size: 16px;
+}
+.name_of_objects
+{
+    color: cornflowerblue;
+}
+#webcam, #result
+{
+    border: 3px dotted aliceblue;
+    width: 350px;
+    height: 300px;
+}
